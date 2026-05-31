@@ -1,0 +1,7 @@
+jupyter
+ipykernel
+langchain
+langchain-community
+langchain-ollama
+requests
+python-dotenv
